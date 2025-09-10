@@ -81,15 +81,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=S1mM1na&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF&point=58A6FF&area=true&area_color=58A6FF" width="95%"/>
 </div>
 
-
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=S1mM1na&color=58A6FF&style=for-the-badge&label=Profile+Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FS1mM1na&count_bg=%2358A6FF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false&style=for-the-badge"/>
-</div>
-
 <br>
 
 </div>
