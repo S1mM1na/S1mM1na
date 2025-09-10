@@ -50,13 +50,7 @@
 
 ## 🏅 Certifications
 
-<div align="center">
-  <img src="https://img.shields.io/badge/DAsP-Data%20Architecture%20Semi--Professional-blue?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ADsP-Applied%20Data%20Science%20Professional-green?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Big%20Data%20Analyst-빅데이터%20분석기사-red?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-</div>
 
-<br>
 
 ## 🎖️ Achievements
 
@@ -77,7 +71,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kookyungseon&theme=material-palenight&hide_border=true&background=20232a&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=fff" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simmina&theme=material-palenight&hide_border=true&background=20232a&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=fff" width="50%" />
 </div>
 
 <br>
