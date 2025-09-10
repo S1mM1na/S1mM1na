@@ -5,7 +5,7 @@
 
 <!-- 타이틀 타이핑 효과 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=40&pause=1000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Kookyungseon!;Welcome+to+my+GitHub!;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=40&pause=1000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+SimMina!;Welcome+to+my+GitHub!;Full-Stack+Developer" alt="Typing SVG" />
 </a>
 
 <br><br>
