@@ -58,6 +58,47 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 Chatbot
+**AI Chatbot Project**  
+> 자연어 처리 기반 대화형 챗봇 개발
+- **기간**: Apr 2023 (1개월)
+- **역할**: Backend 개발 / 대화 로직 구현
+- **기술**: Python
+
+---
+
+### 🖼️ Art Gallery
+**Web 3D Application Project**  
+> Three.js를 활용한 온라인 아트 갤러리 구현
+- **기간**: Sep 2023 – Dec 2023 (4개월)
+- **역할**: Front-end (3D Web UI 개발)
+- **기술**: Three.js
+
+---
+
+### 📈 Stock Prediction
+**AI / Machine Learning Project**  
+> 주가 데이터를 활용한 예측 모델 및 시각화
+- **기간**: Sep 2023 – Dec 2023 (4개월)
+- **역할**: 데이터 전처리 / 모델 구현 / 시각화
+- **기술**: Python, Pandas, Matplotlib, Scikit-learn, TensorFlow
+
+---
+
+### 📰 News Summarization
+**NLP Application Project**  
+> 뉴스 기사 요약 모델 기반 웹 서비스
+- **기간**: Mar 2024 – Apr 2024 (2개월)
+- **역할**: 데이터 처리 / 요약 모델 학습 및 적용
+- **기술**: Python, Hugging Face Transformers, TensorFlow, Scikit-learn, Pandas
+
+---
+
+### 🧠 AIOFAI
+**AI Open Framework for AI**  
+> 인공지능 학습 및 서비스화를 위한 오픈 프레임워크 플랫폼
+- **기간**: Sep 2024 – Nov 2025 (진행 중)
+
 
 
 
